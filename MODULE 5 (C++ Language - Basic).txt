@@ -1,0 +1,15 @@
+                                       MODULE: 5 (C++ Language - Basic)
+
+
+
+Que: Write a C++ Program to print Message “Welcome to Tops Technologies”
+
+
+Ans:
+    #include<iostream>
+    using namespace std;
+    int main(){
+	cout<<"Welcome to Tops Technologies";
+
+   
+      };
